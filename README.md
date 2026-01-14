@@ -27,4 +27,4 @@ Expect to see:
 ---
 
 ### 🔗 The Big Picture
-To see my full learning plan and progress, check out the **[Dream-Debugger-Roadmap](https://github.com/anshik-kewat/Dream-Debugger-Roadmap)**.
+To see my full learning plan and progress, check out the **[Dream-Debugger-Roadmap](https://github.com/Dream-Debugger-Dev/Dream-Debugger-Roadmap)**.
