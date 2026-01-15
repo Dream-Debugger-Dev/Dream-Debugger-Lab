@@ -31,3 +31,5 @@ print("My age is", age)
 #if we will print variable with variable is will print 1st variable value
 
 print(newname) #it will print name variable value which is Dream Debugger
+
+print(age) #it will print 24
