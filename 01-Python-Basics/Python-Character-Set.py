@@ -21,7 +21,7 @@ print(24-2) #output will be 22
 
 print(24*2) #output 48
 
-print(24/2) #output 12
+print(24/2) #output 12.0
 
 
 

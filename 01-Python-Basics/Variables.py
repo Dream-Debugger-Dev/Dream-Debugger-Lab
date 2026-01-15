@@ -26,7 +26,7 @@ print(name, age, tenth_percentage) #output Dream debugger 24 53.45
 #We can also print variable value with other sentence
 
 print("My name is", name)
-print("My age is", name)
+print("My age is", age)
 
 #if we will print variable with variable is will print 1st variable value
 
