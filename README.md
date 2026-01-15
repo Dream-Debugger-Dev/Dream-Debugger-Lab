@@ -1,30 +1,42 @@
-# 🧪 Dream Debugger Lab
+# ⚡ Dream Debugger Lab
+> *Initiating System... Status: **ONLINE** 🟢*
 
-> **The Workbench.** Daily practice, LeetCode solutions, and raw code experiments.
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=200&section=header&text=Dream%20Debugger&fontSize=80&animation=fadeIn&fontAlign=50&desc=Coding%20the%20Future%20//%20One%20Script%20at%20a%20Time&descAlign=50)
 
-This repository is where I get my hands dirty. While my **[Roadmap Repo](../Dream-Debugger-Roadmap)** tracks *what* I learn, this repo contains the actual code I write to learn it.
+<div align="center">
 
----
+[![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Git](https://img.shields.io/badge/Git-System-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![VS Code](https://img.shields.io/badge/IDE-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Status](https://img.shields.io/badge/Status-Learning-success?style=for-the-badge)]()
 
-## 📂 Repository Structure
-I organize my practice code by topic:
-
-* **`📂 /01-Python-Basics`** - Loops, Functions, OOP, and syntax practice.
-* **`📂 /02-LeetCode`** - Data Structures & Algorithms solutions.
-* **`📂 /03-Mini-Scripts`** - Small automation tools and random experiments.
-
----
-
-## ⚠️ Disclaimer
-**This is a learning playground.**
-Expect to see:
-* Code that breaks.
-* Comments explaining simple concepts (for my own memory).
-* "Spaghetti code" that I will refactor later.
-
-*Real, polished projects will be uploaded to their own separate repositories.*
+</div>
 
 ---
 
-### 🔗 The Big Picture
-To see my full learning plan and progress, check out the **[Dream-Debugger-Roadmap](https://github.com/Dream-Debugger-Dev/Dream-Debugger-Roadmap)**.
+### 📂 Mission Log (Repository Contents)
+This repository documents my journey into the core of programming.
+
+| Directory | Description | Status |
+| :--- | :--- | :--- |
+| **`01-Python-Basics`** | Variables, Data Types, Logic | 🟢 Active |
+| **`02-Control-Flow`** | If/Else, Loops, Decisions | 🟡 Loading... |
+| **`03-Automation`** | Scripts & Tools | 🔴 Locked |
+
+---
+
+### 👨‍💻 Operator Profile
+* **Identity:** Dream Debugger
+* **Objective:** Master Python & Full Stack Development
+* **Current Mission:** Building `Autonix` & `Progress_Tracker`
+
+### 📡 Establish Connection
+<a href="https://instagram.com/dream_debugger">
+  <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+&nbsp;&nbsp; <a href="https://youtube.com/@dreamDebuggerDev">
+  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+---
+> *"The code is the documentation of the mind."*
