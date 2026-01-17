@@ -8,5 +8,5 @@ a = None      # NoneType
 print(type(name), name)
 print(type(age), age)
 print(type(height), height)
-print(type(old), old)
+print(type(old), old) 
 print(type(a), a)   
