@@ -1,7 +1,7 @@
 # ⚡ Dream Debugger Lab
 > *Initiating System... Status: **ONLINE** 🟢*
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=200&section=header&text=Dream%20Debugger&fontSize=80&animation=fadeIn&fontAlign=50&desc=Coding%20the%20Future%20//%20One%20Script%20at%20a%20Time&descAlign=50)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=200&section=header&text=Dream%20Debugger&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Coding%20the%20Future%20//%20One%20Script%20at%20a%20Time&descAlignY=65)
 
 <div align="center">
 
