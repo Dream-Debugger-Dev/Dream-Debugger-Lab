@@ -19,7 +19,7 @@ This repository documents my journey into the core of programming.
 
 | Directory | Description | Status |
 | :--- | :--- | :--- |
-| | **`01-Python-Basics`** | Variables, Casting, Operators, Comments | 🟢 In Progress |
+| **`01-Python-Basics`** | Variables, Casting, Operators, Comments | 🟢 In Progress |
 | **`02-Control-Flow`** | If/Else, Loops, Decisions | 🟡 Loading... |
 | **`03-Automation`** | Scripts & Tools | 🔴 Locked |
 
