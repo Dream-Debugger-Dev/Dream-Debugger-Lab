@@ -1,4 +1,4 @@
-#Q1. Write a program to input 2 numbers & print their sum
+#Q2. Write a program to input 2 numbers & print their sum
 
 num1 = float(input("Enter 1st number:")) #user will enter 1st number, I have difine input float so if user choose to enter desimal numbers they can
 num2 = float(input("Enter 2nd number:")) #user will enter 2nd number
