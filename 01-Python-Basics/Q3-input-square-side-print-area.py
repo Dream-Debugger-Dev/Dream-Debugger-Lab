@@ -1,4 +1,4 @@
-#Q1. WAP to input side of a square & print its Area 
+#Q3. WAP to input side of a square & print its Area 
 
 side = float(input("Enter your square site:")) #user will enter side of a square ,
 
